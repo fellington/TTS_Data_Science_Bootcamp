@@ -16,7 +16,7 @@ Homework assignments from the Tech Talent South Bootcamp for Data Science
   
   Mod 11: Matplotlib
   
-  Mod 12: Iris Dataset & sCIKIT-learn
+  Mod 12: Iris Dataset & Scikit-learn
   
 ## R:
   
