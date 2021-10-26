@@ -2,7 +2,7 @@
 
 Homework assignments from the Tech Talent South Bootcamp for Data Science
 
-Python:
+## Python:
   
   Mod 1: Basics
   
@@ -18,7 +18,7 @@ Python:
   
   Mod 12: Iris Dataset & sCIKIT-learn
   
-R:
+## R:
   
   Mod 13: Intro to R
   
@@ -26,7 +26,7 @@ R:
   
   Mod 15: Importing and Transforming Data
   
-SQL:
+## SQL:
   
   SQL Part 1: complete code answering problem stated at https://techtalentsouth.slides.com/techtalentsouth/sql-part-2-sql-fundamentals?token=B8p0vSeF#/0/26
   
